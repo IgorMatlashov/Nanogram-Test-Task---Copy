@@ -1,0 +1,6 @@
+Level Completed.png
+size:64,64
+filter:Linear,Linear
+pma:true
+Layer 3
+bounds:2,2,57,58
